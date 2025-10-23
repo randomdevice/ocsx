@@ -1,2 +1,2 @@
-# ocsx
-Open Cluster Securities Exchange
+# hinet
+Harmonic Incentive Network
